@@ -4,8 +4,11 @@ This app is made using react and typescript. It is made using react router for r
 
 ## Features
  Creating contacts
+ 
  Editing contacts
+ 
  Deleting contacts
+ 
  Navigation between different pages using react router
 
 ## How to run it
