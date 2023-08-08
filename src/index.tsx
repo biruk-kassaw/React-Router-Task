@@ -1,7 +1,7 @@
 import React, { Children } from 'react';
 import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import './index.css'
+import './index.css';
 import Root, {
   loader as rootLoader,
   action as rootAction,
